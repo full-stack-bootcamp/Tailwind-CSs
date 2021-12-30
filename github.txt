@@ -1,0 +1,27 @@
+organization: your account
+Repository: where exactly we put our code
+Commit: to make a copy of your code
+Stage: preparing for commit
+
+Advantage of Github:
+->To save and store our code and projects.
+->To track the History changes of the Repository
+->
+
+
+git init
+git add index.html
+git add Assets/
+git status
+git commit -m 'first'
+git log
+git branch -M main : rename the branch to main
+git remote add origin (link)
+git remote show origin
+git push -u origin main
+
+
+Readme: where to write project description
+upstream: online Repository
+Every project have two reositories: online and offline
+sinking = means push
