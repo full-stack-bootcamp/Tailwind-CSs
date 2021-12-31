@@ -25,3 +25,9 @@ Readme: where to write project description
 upstream: online Repository
 Every project have two reositories: online and offline
 sinking = means push
+
+git restore = to clean every work you have done it
+git checkout -b adding-styles : this command is taking you to another new branch of (adding-styles)
+
+if you wanna go back to the main or another existing branch:
+-> git checkout main    
